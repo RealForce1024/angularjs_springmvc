@@ -1,2 +1,2 @@
-# angularjs_springmvc
-前后端分离体验
+
+前后端分离体验 angularjs与springmvc结合
